@@ -1,4 +1,4 @@
-# The Eat-n-Spilt web application.
+# The Eat-n-Split web application.
 
 ## Build using react library
 
